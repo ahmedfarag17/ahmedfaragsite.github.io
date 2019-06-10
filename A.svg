@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="105px" viewBox="0 0 100 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>A</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-86.000000, -228.000000)" fill="#D8D8D8">
+            <g id="A" transform="translate(86.000000, 228.000000)">
+                <polygon id="Triangle-7" points="26 31 50.5 31 43 54 14.5 63"></polygon>
+                <polygon id="Triangle-8" points="14.5 62.5 43 54 30 95.5"></polygon>
+                <polygon id="Triangle-9" points="15 63 30 96.5 27 105 0.5 105"></polygon>
+                <polygon id="Triangle" points="36 0.5 51 31 25.5 31"></polygon>
+                <polygon id="Triangle-2" points="36 0.5 65 0.5 50.5 31"></polygon>
+                <polygon id="Triangle-3" points="65 1 80.5 46 50.5 30.5"></polygon>
+                <polygon id="Triangle-4" points="50.5 30.5 80.5 46 91 77.5 61 65"></polygon>
+                <polygon id="Triangle-5" points="61 64.5 91.5 78.25 73 105"></polygon>
+                <polygon id="Triangle-6" points="91 78.5 100 104.5 73 104.5"></polygon>
+                <polygon id="Triangle-10" points="60.5 64 67 83.5 51 83.5"></polygon>
+                <polygon id="Triangle-10" points="39.5 64 51 84 33.5 84"></polygon>
+                <polygon id="Triangle-11" points="60.5 64.5 51 84.5 40 64.5"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

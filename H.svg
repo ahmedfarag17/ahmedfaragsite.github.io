@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="105px" viewBox="0 0 90 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>H</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-196.000000, -228.000000)" fill="#D8D8D8">
+            <g id="H" transform="translate(196.000000, 228.000000)">
+                <polygon id="Triangle-12" points="0 0 27 31 0 31"></polygon>
+                <polygon id="Triangle-12" transform="translate(14.000000, 15.500000) scale(-1, -1) translate(-14.000000, -15.500000) " points="1 0 27 31 1 31"></polygon>
+                <polygon id="Triangle-12" points="63 0 90 31 63 31"></polygon>
+                <polygon id="Triangle-12" transform="translate(77.000000, 15.500000) scale(-1, -1) translate(-77.000000, -15.500000) " points="64 0 90 31 64 31"></polygon>
+                <polygon id="Triangle-12" points="63 74 90 105 63 105"></polygon>
+                <polygon id="Triangle-12" transform="translate(77.000000, 89.500000) scale(-1, -1) translate(-77.000000, -89.500000) " points="64 74 90 105 64 105"></polygon>
+                <polygon id="Triangle-12" points="0 74 27 105 0 105"></polygon>
+                <polygon id="Triangle-13" points="0.5 31 27 31 27 74 0.5 56"></polygon>
+                <polygon id="Triangle-12" transform="translate(14.000000, 89.500000) scale(-1, -1) translate(-14.000000, -89.500000) " points="1 74 27 105 1 105"></polygon>
+                <polygon id="Triangle-14" points="0.5 56 27 74 0 74.5"></polygon>
+                <polygon id="Triangle-15" points="51 39 89 52 63 59"></polygon>
+                <polygon id="Triangle-16" points="62.5 30.5 90 31 89 52 51.5 39 62.5 38.5"></polygon>
+                <polygon id="Triangle-17" points="88.5 52 89.5 74 62.5 74 62.5 58.5"></polygon>
+                <polygon id="Triangle-18" points="27 38.5 63 58.5 27 58.5"></polygon>
+                <polygon id="Triangle-19" points="51 38.5 62.5 58.5 27.5 38.5"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

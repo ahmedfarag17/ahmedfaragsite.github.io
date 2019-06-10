@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="95px" height="107px" viewBox="0 0 95 107" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>D</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-523.000000, -227.000000)" fill="#D8D8D8">
+            <g id="D" transform="translate(523.000000, 227.000000)">
+                <polygon id="Triangle-36" points="1 1 27.5 57.5 1 30"></polygon>
+                <polygon id="Triangle-37" points="1 30 28.5 57.5 1 85.5"></polygon>
+                <polygon id="Triangle-38" points="27.5 58.5 27.5 106.5 0.5 86"></polygon>
+                <polygon id="Triangle-39" points="1 85.5 28.5 106.5 1 106.5"></polygon>
+                <polygon id="Triangle-40" points="27.5 1 27.5 58 0.5 1"></polygon>
+                <polygon id="Triangle-41" points="27.5 0.5 49 2 59 21 27.5 21"></polygon>
+                <polygon id="Triangle-41" transform="translate(41.750000, 96.250000) scale(1, -1) translate(-41.750000, -96.250000) " points="26 86 47.5 87.5 57.5 106.5 26 106.5"></polygon>
+                <polygon id="Triangle-42" points="49 2 59.5 4 58.5 21"></polygon>
+                <polygon id="Triangle-43" points="59.5 4 69.5 8 56.5 27"></polygon>
+                <path d="M69.5,7.5 C69.5,7.5 77.0619922,13.1621329 83,20 C88.9380078,26.8378671 88.5711111,28.4089342 90,31.5 C91.7889594,35.3699937 93.4533916,41.830978 94,47.5 C94.5466084,53.169022 94,60.5 94,60.5 L56.5,27 L69.5,7.5 Z" id="Triangle-44"></path>
+                <path d="M58,61 C58,61 75.2239995,66.9755487 83.5,77 C91.7760005,87.0244513 93.5,104 93.5,104 L58,86.5 L58,61 Z" id="Triangle-44" transform="translate(75.750000, 82.500000) scale(1, -1) translate(-75.750000, -82.500000) "></path>
+                <path d="M60.5,30 L94.5,61 L59.5,77.5 C59.5,77.5 67.3307911,64.0374214 67.5,56 C67.6692089,47.9625786 60.5,30 60.5,30 Z" id="Triangle-51"></path>
+                <polygon id="Triangle-52" points="58.5 82.5 58.5 104 47.5 105"></polygon>
+                <polygon id="Triangle-49" points="57 21 51.5 23.5 41.5 21"></polygon>
+                <polygon id="Triangle-50" points="57 21 59 29 51.5 23.5"></polygon>
+                <polygon id="Triangle-49" transform="translate(49.750000, 84.750000) scale(1, -1) translate(-49.750000, -84.750000) " points="57.5 83.5 52 86 42 83.5"></polygon>
+                <polygon id="Triangle-50" transform="translate(55.750000, 82.000000) scale(1, -1) translate(-55.750000, -82.000000) " points="57.5 78 59.5 86 52 80.5"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
